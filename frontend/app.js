@@ -37,8 +37,10 @@ const memeImg = document.getElementById('meme-img');
 const voiceItBtn = document.getElementById('voice-it-btn');
 const pauseBtn = document.getElementById('pause-btn');
 
-// API Configuration
-const API_URL = 'http://localhost:5001/api';
+// Import configuration
+import { API_URL } from './config.js';
+
+// Speech Recognition Setup
 
 // Form Submission Handler
 async function handleSubmit(event) {
