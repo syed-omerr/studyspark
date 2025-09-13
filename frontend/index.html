@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StudySpark</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="app">
+        <header>
+            <div class="logo">
+                <span class="logo-icon">⚡</span>
+                <span class="logo-text">StudySpark</span>
+            </div>
+            <div class="theme-toggle">
+                <span class="sun-icon">☀️</span>
+                <label class="switch">
+                    <input type="checkbox" id="theme-switch">
+                    <span class="slider"></span>
+                </label>
+            </div>
+        </header>
+
+        <main>
+            <div class="content-container">
+                <div class="input-section">
+                    <div class="input-card">
+                        <div class="translation-header">
+                            <div class="from-text">
+                                <span>Translating from:</span>
+                                <h3>Slang</h3>
+                            </div>
+                        </div>
+                        
+                        <div class="input-area">
+                            <textarea id="question" 
+                                placeholder="yo bruh, drop your question here..."
+                                rows="4"></textarea>
+                        </div>
+
+                        <div class="controls">
+                            <div class="subject-select">
+                                <select id="subject">
+                                    <option value="Math">Math</option>
+                                    <option value="Physics">Physics</option>
+                                    <option value="Chemistry">Chemistry</option>
+                                </select>
+                            </div>
+                            <button id="voice-btn" class="voice-btn">🎤</button>
+                        </div>
+                    </div>
+
+                    <div class="generate-section">
+                        <button id="submit-btn" class="generate-btn">Generate Lesson</button>
+                    </div>
+                </div>
+
+                <div class="output-section">
+                    <div id="lesson-output" class="output-card" style="display: none;">
+                        <div class="study-plan">
+                            <h3>Study Plan:</h3>
+                            <div id="lesson-content"></div>
+                        </div>
+                        <img id="meme-img" class="meme-img" style="display: none;" alt="Meme">
+                        <div class="voice-controls">
+                            <button id="voice-it-btn" class="btn">🔊</button>
+                            <button id="pause-btn" class="btn">⏸️</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

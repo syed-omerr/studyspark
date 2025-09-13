@@ -1,0 +1,161 @@
+Subject,Topic,Description
+Math,Quadratic Equations,"Solving equations like ax^2 + bx + c = 0 using factoring or Vedic math"
+Math,Linear Equations,"Equations like 2x + 3 = 7 with real-world applications"
+Math,Exponents and Powers,"Rules like a^m * a^n = a^(m+n) with shortcuts"
+Math,Polynomials,"Operations on polynomials like (x^2 + 2x) + (3x - 1)"
+Math,Triangles,"Properties like congruence and Pythagoras theorem"
+Math,Coordinate Geometry,"Plotting points and distance formula"
+Math,Percentage,"Calculating discounts and interest"
+Math,Fractions and Decimals,"Operations like 1/2 + 0.25"
+Math,Data Handling,"Mean, median, and bar graphs"
+Math,Mensuration,"Area and perimeter of shapes like circles"
+Math,Probability,"Basic concepts and calculations of probability"
+Math,Statistics,"Collecting, analyzing, and interpreting data"
+Math,Set Theory,"Understanding sets, subsets, and Venn diagrams"
+Math,Trigonometry,"Basic trigonometric ratios and applications"
+Math,Logarithms,"Properties and calculations involving logarithms"
+Math,Sequences and Series,"Arithmetic and geometric progressions"
+Math,Mensuration,"Surface area and volume of 3D shapes"
+Math,Number Systems,"Types of numbers and their properties" 
+Math,Time and Work,Calculating work done and efficiency
+Math,"Time, Speed and Distance","Formulas and problem-solving techniques"
+Math,Profit and Loss,Calculating profit, loss, and discounts
+Math,Simple and Compound Interest,Formulas and applications in finance
+Math,Algebraic Expressions,Operations and simplification of expressions
+Math,Coordinate Plane,Understanding the x and y axes and plotting points
+Math,Transformations,Translations, rotations, and reflections of shapes
+Math,Symmetry,Lines of symmetry and rotational symmetry
+Math,Graphing,Plotting linear and non-linear graphs
+Math,Word Problems,Translating real-world situations into mathematical equations
+Math,Mathematical Reasoning,Logical thinking and problem-solving strategies 
+Math,Mathematical Puzzles,Engaging puzzles to enhance critical thinking skills
+Math,Mathematical Games,Interactive games to reinforce mathematical concepts
+Math,Mathematical Tools,Using tools like rulers, protractors, and compasses
+Math,Mathematical Software,Introduction to software for learning and practicing math
+Math,Mathematical History,Exploring the history and development of mathematical concepts
+Math,Mathematical Careers,Information about careers that use mathematics
+Math,Mathematical Competitions,Preparing for and participating in math competitions
+Math,Integration,Understanding the concept of integration and its applications
+Math,Differentiation,Understanding the concept of differentiation and its applications
+Math,Limits and Continuity,Understanding limits and continuity in functions
+Math,Vectors,Understanding vectors and their applications in geometry and physics
+Math,Matrices,Understanding matrices and their operations
+Math,Complex Numbers,Understanding complex numbers and their operations
+Math,Conic Sections,Understanding circles, ellipses, parabolas, and hyperbolas
+Math,Transformations of Functions,Understanding translations, reflections, and stretches of functions
+Math,Sequences and Series,Understanding arithmetic and geometric sequences and series
+Math,Probability Distributions,Understanding different types of probability distributions
+Math,Statistical Measures,Understanding measures of central tendency and dispersion
+Math,Hypothesis Testing,Understanding the concept of hypothesis testing in statistics
+Math,Regression Analysis,Understanding the concept of regression analysis in statistics 
+Math,Mathematical Modeling,Using mathematics to model real-world situations
+Math,Optimization,Using mathematical techniques to find optimal solutions
+Math,Game Theory,Understanding strategic decision-making using mathematics
+Math,Fractals,Understanding the concept of fractals and their properties
+Math,Chaos Theory,Understanding the concept of chaos and its applications in mathematics
+Math,Number Theory,Understanding properties of integers and prime numbers
+Math,Graph Theory,Understanding the study of graphs and networks
+Physics,Motion,Distance, speed, and Newton’s laws with graphs
+Physics,Force and Pressure,Force types and pressure calculations
+Physics,Friction,Static and kinetic friction with examples
+Physics,Sound,Properties like pitch and frequency
+Physics,Light,Reflection and refraction basics
+Physics,Electricity,Basic circuits and Ohm’s law
+Physics,Gravitation,Universal law and weight calculations
+Physics,Work and Energy,Kinetic and potential energy
+Physics,Heat,Temperature and heat transfer 
+Physics,Magnetism,Magnetic fields and poles
+Physics,Astrophysics,Basic concepts of stars, planets, and the universe
+Physics,Nuclear Physics,Structure of the nucleus and radioactivity
+Physics,Thermodynamics,Study of heat, work, and energy transfer
+Physics,Fluid Mechanics,Properties and behavior of fluids
+Physics,Optics,Study of light and optical instruments
+Physics,Relativity,Basic concepts of special and general relativity
+Physics,Quantum Mechanics,Introduction to quantum theory and particles
+Physics,Particle Physics,Study of fundamental particles and forces
+Chemistry,Chemical Reactions,Balancing equations like H2 + O2 -> H2O
+Chemistry,Acids and Bases,pH scale and neutralization reactions
+Chemistry,Metals and Non-Metals,Properties and reactions like rusting
+Chemistry,Carbon Compounds,Basic organic chemistry concepts
+Chemistry,Periodic Table,Element classification and trends
+Chemistry,Chemical Bonding,Ionic and covalent bonds
+Chemistry,Atoms and Molecules,Atomic structure and moles
+Chemistry,States of Matter,Solids, liquids, and gases
+Chemistry,Solutions,Concentration and solubility
+Chemistry,Combustion,Burning fuels and fire triangle
+Chemistry,Environmental Chemistry,Chemical processes in the environment and pollution control
+Chemistry,Industrial Chemistry,Applications of chemistry in industry and manufacturing
+Chemistry,Analytical Chemistry,Techniques for analyzing substances and mixtures
+Chemistry,Physical Chemistry,Study of physical properties and changes in matter
+Chemistry,Inorganic Chemistry,Study of inorganic compounds and materials
+Chemistry,Organic Chemistry,Study of carbon-containing compounds and their reactions
+Chemistry,Green Chemistry,Environmentally friendly chemical processes and products
+Chemistry,Nanotechnology,Study and application of materials at the nanoscale
+Chemistry,Pharmaceutical Chemistry,Study of drug design and development
+Chemistry,Food Chemistry,Chemical processes and interactions in food
+Chemistry,Forensic Chemistry,Application of chemistry in criminal investigations
+Chemistry,Surface Chemistry,Study of surface phenomena and interfaces
+Chemistry,Electrochemistry,Study of chemical processes that involve electricity
+Chemistry,Photochemistry,Study of chemical reactions that involve light
+Chemistry,Coordination Chemistry,Study of coordination compounds and their properties
+Chemistry,Polymer Chemistry,Study of polymers and their applications
+Chemistry,Supramolecular Chemistry,Study of non-covalent interactions between molecules
+Chemistry,Theoretical Chemistry,Use of mathematical models to understand chemical systems
+Chemistry,Medicinal Chemistry,Design and development of pharmaceutical agents
+Chemistry,Environmental Toxicology,Study of the effects of chemicals on the environment and living organisms
+Chemistry,Material Science,Study of the properties and applications of materials
+Chemistry,Quantum Chemistry,Study of the quantum mechanical behavior of atoms and molecules
+Chemistry,Surface Science,Study of physical and chemical phenomena that occur at the interface of two
+Chemistry,Catalysis,Study of catalysts and their role in chemical reactions
+Chemistry,Reaction Kinetics,Study of the rates of chemical reactions and factors affecting them
+Chemistry,Thermodynamics,Study of energy changes in chemical reactions and physical processes
+Chemistry,Coordination Compounds,Study of complex compounds formed by central atoms and ligands
+Chemistry,Inorganic Synthesis,Methods for preparing inorganic compounds
+Chemistry,Organometallic Chemistry,Study of compounds containing metal-carbon bonds
+Chemistry,Supramolecular Chemistry,Study of molecular assemblies and non-covalent interactions
+Chemistry,Photophysics,Study of the physical properties of molecules in relation to light
+Chemistry,Electroanalytical Techniques,Methods for analyzing substances using electrical properties
+Chemistry,Chromatography,Techniques for separating mixtures into individual components
+Chemistry,Spectroscopy,Study of the interaction of matter with electromagnetic radiation
+Chemistry,Mass Spectrometry,Technique for determining the mass of particles and molecules
+Chemistry,Nuclear Chemistry,Study of nuclear reactions and properties of atomic nuclei
+Chemistry,Environmental Analysis,Techniques for analyzing environmental samples for pollutants
+Chemistry,Polymer Science,Study of the synthesis, properties, and applications of polymers
+Chemistry,Surface Modification,Techniques for altering the surface properties of materials
+Chemistry,Electrocatalysis,Study of catalysts that facilitate electrochemical reactions
+Chemistry,Photocatalysis,Study of catalysts that facilitate light-driven chemical reactions
+Chemistry,Supramolecular Assemblies,Study of complex structures formed by non-covalent interactions
+Chemistry,Computational Chemistry,Use of computer simulations to study chemical systems
+Chemistry,Green Synthesis,Development of environmentally friendly synthetic methods
+Chemistry,Environmental Remediation,Techniques for removing pollutants from the environment
+Chemistry,Analytical Techniques,Methods for identifying and quantifying chemical substances
+Chemistry,Material Characterization,Techniques for analyzing the structure and properties of materials      
+Chemistry,Surface Analysis,Techniques for studying the surface composition and structure of materials
+Chemistry,Electrochemical Sensors,Development of sensors based on electrochemical principles
+Chemistry,Photonic Materials,Study of materials that interact with light for technological applications
+Biology,Cell Structure,Understanding cell organelles and their functions
+Biology,Human Body Systems,Overview of systems like circulatory and respiratory
+Biology,Plant Biology,Basic plant structure and photosynthesis
+Biology,Animal Biology,Classification and characteristics of animals
+Biology,Microorganisms,Types and roles of bacteria, viruses, and fungi
+Biology,Genetics,Basic concepts of heredity and DNA
+Biology,Ecosystems,Interactions between organisms and their environment
+Biology,Food Chains and Webs,Energy flow in ecosystems
+Biology,Adaptations,How organisms adapt to their environment
+Biology,Reproduction,Types of reproduction in plants and animals
+Biology,Human Health and Diseases,Common diseases and prevention methods
+Biology,Nutrition,Types of nutrients and balanced diet
+Biology,Photosynthesis,Process by which plants make food using sunlight
+Biology,Respiration,Cellular respiration and energy production
+Biology,Excretion,How organisms eliminate waste products
+Biology,Transport in Plants and Animals,Movement of substances within organisms
+Biology,Homeostasis,Maintaining internal balance in organisms
+Biology,Cell Division,Mitosis and meiosis processes
+Biology,Enzymes,Biological catalysts and their functions
+Biology,Biotechnology,Applications of technology in biology
+Biology,Immunology,Body's defense mechanisms against diseases
+Biology,Evolution,Theory of evolution and natural selection
+Biology,Biodiversity,Variety of life forms and their importance
+Biology,Conservation,Protecting endangered species and habitats
+Biology,Molecular Biology,Study of biological molecules and their interactions
+Biology,Developmental Biology,Study of organism growth and development
